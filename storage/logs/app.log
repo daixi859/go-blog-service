@@ -1,0 +1,17 @@
+2021/02/07 15:39:21 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: hello/world","time":1612683561103215400}
+2021/02/07 16:35:35 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612686935487127300}
+2021/02/07 16:35:57 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612686957160510700}
+2021/02/07 16:36:48 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612687008709061500}
+2021/02/07 16:38:11 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612687091872771200}
+2021/02/07 16:38:32 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612687112911718700}
+2021/02/07 16:38:57 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612687137309704800}
+2021/02/07 16:39:34 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612687174267023500}
+2021/02/07 16:43:42 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1612687422791458500}
+2021/02/07 16:46:58 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度不能超过4个字符","time":1612687618281760000}
+2021/02/07 17:24:20 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612689860478127700}
+2021/02/07 17:24:41 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612689881450898300}
+2021/02/07 17:25:07 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612689907759218400}
+2021/02/07 17:27:14 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612690034944820400}
+2021/02/07 17:35:37 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612690537863637200}
+2021/02/07 17:50:28 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612691428575018300}
+2021/02/07 17:52:43 {"callers":["D:/workspace/golang/blog-server/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: ","time":1612691563717984000}
