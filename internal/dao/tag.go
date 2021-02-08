@@ -5,9 +5,9 @@ import (
 	"blog-server/pkg/app"
 )
 
-func (d *Dao) GetTag(id uint32, state uint8) (int, error) {
+func (d *Dao) GetTag(id uint32, state uint8) (model.Tag, error) {
 	tag := model.Tag{Model: &model.Model{ID: id}, State: state}
-	return tag.Count(d.engine)
+	return tag.Get(d.engine)
 }
 
 func (d *Dao) GetTagList(name string, state uint8, page, pageSize int) ([]*model.Tag, error) {
